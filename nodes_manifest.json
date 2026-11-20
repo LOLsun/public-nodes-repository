@@ -1,3 +1,4 @@
 {
-    "import_test": "nodes/import_test.json"
+    "import_test": "nodes/import_test.json",
+    "new_node": "nodes/new_node.json"
 }
